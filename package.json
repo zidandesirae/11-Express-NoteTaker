@@ -1,0 +1,24 @@
+{
+  "name": "11-express-notetaker",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zidandesirae/11-Express-NoteTaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zidandesirae/11-Express-NoteTaker/issues"
+  },
+  "homepage": "https://github.com/zidandesirae/11-Express-NoteTaker#readme"
+}
